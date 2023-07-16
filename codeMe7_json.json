@@ -2,7 +2,7 @@
   "ADS": {
 
 
-    "networkAd": "yandex",
+    "networkAd": "xx",
    
     "Banner_idF": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     "Interstitial_idF": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -44,24 +44,24 @@
     "url_exit": "xxx",
     "url_bottom_coins": "",
 
-    "Text_tips1": "Welcome xxx",
-    "Text_tips2": "Welcome xxx",
-    "Text_tips3": "Welcome xxx",
-    "Text_tips4": "Welcome xxx",
-    "Text_tips5": "Welcome xxx",
-    "Text_tips6": "Welcome xxx",
-    "Text_tips7": "Welcome xxx",
-    "Text_tips8": "Welcome xxx",
+    "Text_tips1": "Welcome GazInvestment Guru",
+    "Text_tips2": "Welcome GazInvestment Guru",
+    "Text_tips3": "Welcome GazInvestment Guru",
+    "Text_tips4": "Welcome GazInvestment Guru",
+    "Text_tips5": "Welcome GazInvestment Guru",
+    "Text_tips6": "Welcome GazInvestment Guru",
+    "Text_tips7": "Welcome GazInvestment Guru",
+    "Text_tips8": "Welcome GazInvestment Guru",
 
 
-    "Text_title1": "rrrrr",
-    "Text_title2": "rrrrr",
-    "Text_title3": "rrrrr",
-    "Text_title4": "rrrrr",
-    "Text_title5": "rrrrr",
-    "Text_title6": "rrrrr",
-    "Text_title7": "rrrrr",
-    "Text_title8": "rrrrr",
+    "Text_title1": "GazInvestment Guru",
+    "Text_title2": "GazInvestment Guru",
+    "Text_title3": "GazInvestment Guru",
+    "Text_title4": "GazInvestment Guru",
+    "Text_title5": "GazInvestment Guru",
+    "Text_title6": "GazInvestment Guru",
+    "Text_title7": "GazInvestment Guru",
+    "Text_title8": "GazInvestment Guru",
 
 
     "Text_buttonCoins" : "Male",
